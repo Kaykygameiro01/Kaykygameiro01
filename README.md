@@ -9,8 +9,7 @@
 )]()
 
 
-![Kayky GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykygameiro01&show_icons=true&theme=dracula&height=130em)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaykygameiro01&layout=compact&theme=dracula&height=130em)
+<img src="https://github-readme-stats.vercel.app/api?username=kaykygameiro01&show_icons=true&theme=dracula" alt="Kayky GitHub stats" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykygameiro01&layout=compact&theme=dracula" alt="Top Langs" width="400"/>
 
 ## Tecnologias 
 
